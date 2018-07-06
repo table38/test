@@ -2,4 +2,5 @@ This is a test of Git.
 This is my initial document.
 Everything below the next line are subsequent edits of the original document.
 ----------------------------------------------------------------------------
+2018.07.06 4:33 PM or thereabouts. Here is an update to the document.
 
